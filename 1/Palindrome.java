@@ -1,3 +1,5 @@
+   //palindrome of a given string
+   
     import java.util.*;   
     class Main
     {  
